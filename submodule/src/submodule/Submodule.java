@@ -18,6 +18,8 @@ public class Submodule {
         // TODO code application logic here
         
         System.out.println("I am the submodule");
+        System.out.println("Hello");
+
     }
     
 }
