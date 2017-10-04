@@ -19,7 +19,8 @@ public class Submodule {
         
         System.out.println("I am the submodule");
         System.out.println("Hello");
-        System.out.println("New module")
+        System.out.println("New module");
+        System.out.println("Test statement");
 
     }
     
